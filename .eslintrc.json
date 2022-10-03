@@ -35,6 +35,7 @@
       "no-empty": 0,
       "quotes": 0, //单引号
       "jsx-quotes": 0,
-      "no-console": 0 //不禁用console
+      "no-console": 0, //不禁用console
+      "no-debugger": "warn"
   }
 }
