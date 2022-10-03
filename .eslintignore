@@ -1,3 +1,4 @@
 node_modules
 config-overrides.js
 commitlint.config.js
+src/setupProxy.js

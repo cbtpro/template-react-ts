@@ -1,4 +1,5 @@
 import React from 'react';
+import { env, npmPackageVersion } from './utils';
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,8 @@ function App() {
         >
           Learn React
         </a>
+        <div>npm package version: {npmPackageVersion}</div>
+        <div>env: {env}</div>
       </header>
     </div>
   );

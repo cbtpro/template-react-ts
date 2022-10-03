@@ -18,7 +18,8 @@
       "ecmaFeatures": {
           "experimentalObjectRestSpread": true,
           "tsx": true,
-          "modules": true
+          "modules": true,
+          "node": true
       },
       "sourceType": "module",
       "ecmaVersion": 7
