@@ -1,0 +1,11 @@
+build/*.js
+public
+dist
+node_modules
+config
+config-overrides.js
+src/serviceWorker.js
+prettierrc
+.DS_Store
+.eslintrc.json
+node_modules
